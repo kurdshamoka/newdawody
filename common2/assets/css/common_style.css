@@ -2220,19 +2220,19 @@ input:focus {
 }
 
 .color-blue1 {
-  color: #d98d16 !important;
+  color: var(--color-blue1) !important;
 }
 
 .bg-blue1 {
-  background: #d98d16 !important;
+  background: var(--color-blue1) !important;
 }
 
 .border-blue1 {
-  border-color: #d98d16 !important;
+  border-color: var(--color-blue1) !important;
 }
 
 .hover-blue1:hover {
-  color: #d98d16 !important;
+  color: var(--color-blue1) !important;
 }
 
 .hover-bg-blue1:hover {

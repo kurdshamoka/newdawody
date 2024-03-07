@@ -89,7 +89,7 @@
 }
 .tc-navbar-container-style3 .search-nav-style3 {
   padding: 15px;
-  background-color: var(--color-green2);
+  background-color: #1a81ba;
   color: #fff;
   border-radius: 10px;
 }
@@ -980,7 +980,7 @@
 }
 .tc-products-style6 .product-card .top-inf .dis-card {
   color: #fff;
-  background-color: var(--color-green2);
+  background-color: #1a79ba;
   padding: 5px 10px;
   border-radius: 7px;
   display: inline-block;
@@ -1082,8 +1082,8 @@
   color: #666;
 }
 .tc-products-style6 .pagination .page-link.active {
-  background-color: var(--color-green2);
-  border-color: var(--color-green2);
+  background-color: #1a88ba;
+  border-color: #1a66ba;
   color: #fff;
 }
 .tc-products-style6 .pagination .page-link:hover {
@@ -1147,7 +1147,7 @@
 }
 .tc-recently-viewed-style6 .products-slider .product-card .top-inf .dis-card {
   color: #fff;
-  background-color: var(--color-green2);
+  background-color: #1a6bba;
   padding: 5px 10px;
   border-radius: 7px;
   display: inline-block;
@@ -2575,7 +2575,7 @@
   position: absolute;
   right: -3px;
   bottom: -3px;
-  background-color: var(--color-green2);
+  background-color: #1a54ba;
   color: #fff;
   z-index: 5;
   border-radius: 50%;
@@ -2630,7 +2630,7 @@
   border-radius: 50%;
 }
 .contact-pg-1 .contact-info .contact-info-card .social-icons a:hover {
-  background-color: var(--color-green2);
+  background-color: #1a54ba;
   color: #fff;
 }
 .contact-pg-1 .map iframe {
