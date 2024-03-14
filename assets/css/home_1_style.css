@@ -559,7 +559,7 @@
   width: 100%;
   text-align: center;
   padding: 30px 15px 15px;
-  background-color: var(--color-blue1);
+  background-color: #d98d16;
   color: #fff;
   border-radius: 0 0 10px 10px;
   opacity: 0;
@@ -1539,13 +1539,13 @@
   background-color: #ebeef6;
 }
 .home-style1 .loader-wrap svg {
-  fill: var(--color-blue1);
+  fill:#d98d16;
 }
 .home-style1 .mob-navigation ul li.active a .icon {
-  color: var(--color-blue1);
+  color: #d98d16;
 }
 .home-style1 .mob-navigation ul li a .text {
-  background-color: var(--color-blue1);
+  background-color: #d98d16;
 }
 
 @media screen and (max-width: 991px) {

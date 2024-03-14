@@ -48,7 +48,7 @@
   text-transform: uppercase;
 }
 .tc-navbar-container-style3 .tc-navbar-style3 .navbar-nav .nav-link:hover, .tc-navbar-container-style3 .tc-navbar-style3 .navbar-nav .nav-link.active {
-  color: var(--color-green2);
+  color: #ffa500;
 }
 .tc-navbar-container-style3 .tc-navbar-style3 .side-nav {
   display: -webkit-box;
@@ -89,7 +89,7 @@
 }
 .tc-navbar-container-style3 .search-nav-style3 {
   padding: 15px;
-  background-color: #1a81ba;
+  background-color: #d98d16;
   color: #fff;
   border-radius: 10px;
 }
