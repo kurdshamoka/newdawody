@@ -2325,23 +2325,23 @@ input:focus {
 }
 
 .color-green1 {
-  color: var(--color-green1) !important;
+  color: #f6ab4a !important;
 }
 
 .bg-green1 {
-  background: var(--color-green1) !important;
+  background: #f6ab4a !important;
 }
 
 .border-green1 {
-  border-color: var(--color-green1) !important;
+  border-color: #f6ab4a !important;
 }
 
 .hover-green1:hover {
-  color: var(--color-green1) !important;
+  color: #f6ab4a !important;
 }
 
 .hover-bg-green1:hover {
-  background: var(--color-green1) !important;
+  background: #f6ab4a !important;
   color: #fff !important;
 }
 
@@ -2350,15 +2350,15 @@ input:focus {
 }
 
 .bg-green2 {
-  background: var(--color-green2) !important;
+  background: #f6ab4a !important;
 }
 
 .border-green2 {
-  border-color: var(--color-green2) !important;
+  border-color: #f6ab4a !important;
 }
 
 .hover-green2:hover {
-  color: var(--color-green2) !important;
+  color: #f6ab4a !important;
 }
 
 .hover-bg-green2:hover {
